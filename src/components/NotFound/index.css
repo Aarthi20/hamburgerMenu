@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.image {
+  width: 50%;
+  height: 50%;
+}
+.heading {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 23px;
+  font-weight: bold;
+}
+.heading {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
